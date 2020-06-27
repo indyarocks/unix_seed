@@ -1,0 +1,3 @@
+ls.txt
+my_random_word.sh
+variables.sh
